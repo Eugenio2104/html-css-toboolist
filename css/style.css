@@ -39,3 +39,9 @@ border-color: #47ADF1;
   border-width: 1px;
   
 }
+
+.container{
+  width: 50%;
+  margin: 0 auto;
+  background-color: white;
+}
